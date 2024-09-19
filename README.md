@@ -6,7 +6,7 @@ En este repositorio guardamos los ejercicos de la clase de mate financieras 2024
 con el siguiente codigp, puede usted cargar las funciones relativas a los calculos de interes simple:
 
 ```{r}
-source(
+source("https://raw.githubusercontent.com/Montse-Ramirez/mateFinActuaria2024b/refs/heads/main/FormulasInteresSimple.R")
 ```
 A continuacion se dan ejemplos del uso de formulas correspondientes
 
